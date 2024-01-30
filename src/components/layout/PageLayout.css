@@ -1,0 +1,32 @@
+.full-layout {
+  display: flex;
+  justify-content: space-between;
+}
+
+.current-page {
+  height: 100vh;
+  width: 80vw;
+  padding-left: 5vw;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+}
+
+img {
+  height: 60vh;
+}
+
+.gallery {
+  display: flex;
+  justify-content: space-around;
+}
+
+.gallery img {
+  width: 30vw;
+  height: auto;
+}
