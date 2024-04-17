@@ -12,7 +12,7 @@ export default function About() {
         <p>I might talk about where I'm from and why I love web development.</p>
         <p>But I can't because I am not a real person!</p>
 
-        <img src="/phase-2-portfolio/src/images/smile.jpg" alt="a hand holding a yellow ballon with a smiley face on it"></img>
+        <img src="https://github.com/lsternTTP/phase-2-portfolio/blob/main/src/images/smile.jpg?raw=true" alt="a hand holding a yellow ballon with a smiley face on it"></img>
       </section>
     </div>
   )
